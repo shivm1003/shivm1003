@@ -55,5 +55,5 @@ LLMs • Prompt Engineering • AI Automation
 
 ## 📫 Connect
 
-- LinkedIn
-- Email
+- LinkedIn - https://www.linkedin.com/in/shivham-kumaar/
+- Email - shivm9899@gmailcom
