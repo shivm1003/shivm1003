@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**shivm1003/shivm1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Engineer | AI & Data Platform Engineer
 
-Here are some ideas to get you started:
+I design and build scalable AI-powered data platforms, distributed backend systems, and web data infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Build
+
+- AI-powered Data Platforms
+- Distributed Backend Systems
+- Web Data Infrastructure
+- FastAPI Applications
+- Large-scale ETL Pipelines
+- Workflow Automation
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • SQL
+
+**Backend**
+
+FastAPI • REST APIs
+
+**Distributed Systems**
+
+Redis • RabbitMQ
+
+**Cloud**
+
+AWS • PostgreSQL
+
+**Data Engineering**
+
+Apache Spark • ETL • Data Pipelines
+
+**AI**
+
+LLMs • Prompt Engineering • AI Automation
+
+---
+
+## 🌱 Currently Building
+
+- Scraping System
+- AI-powered Data Platforms
+- Distributed Processing Systems
+
+---
+
+## 📫 Connect
+
+- LinkedIn
+- Email
